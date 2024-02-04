@@ -1,5 +1,8 @@
 # bank-churn-prediction
 
+# First folder (Bank churn) 
+This folder includes the building of a REST API using flask.
+
 # First file (Analyze and apply filter methods) 
 This file kicks off the project and includes the analyzation of the dataset and the application of filter methods mainly ANOVA, Chi-square and Mutual Information).
 
