@@ -10,4 +10,4 @@ This file kicks off the project and includes the analyzation of the dataset and 
 This file includes the application of sequential forward feature selection on different classification algorithms.
 
 # Third file (Identify and interpret best model)
-This file includes the application of different selected features via filter and wrapper methods to identify the best feature and interpret it using SHAP value.
+This file includes the application of different selected features via filter and wrapper methods to identify the best features and interpret it using SHAP value.
